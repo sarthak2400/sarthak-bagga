@@ -1,3 +1,3 @@
 # sarthak-bagga
 <br>
-<b>THis is my first git </b>
+<b>This is my first git </b>
